@@ -1,5 +1,4 @@
-
-name: Deploy Wedding Website
+name: Deploy Reception Website
 
 on:
   push:
@@ -49,4 +48,3 @@ jobs:
       - name: Deploy website
         id: deployment
         uses: actions/deploy-pages@v4
-
