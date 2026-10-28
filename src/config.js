@@ -81,7 +81,7 @@ export const WEDDING_CONFIG = {
         reception: {
           name: "शुभ विवाह एवं स्वागत समारोह",
           date: "2026-11-26",
-          time: "रात 9 बजे",
+          time: "शाम 7 बजे",
           place: "एम20 गार्डन एंड रिसॉर्ट",
         },
       },
